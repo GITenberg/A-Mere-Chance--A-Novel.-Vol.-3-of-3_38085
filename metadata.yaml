@@ -1,0 +1,30 @@
+_repo: A-Mere-Chance--A-Novel.-Vol.-3-of-3_38085
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cambridge, Ada
+    alias: Cross, Ada Cambridge
+    birthdate: 1844
+    deathdate: 1926
+    gutenberg_agent_id: '1403'
+    url: http://www.gutenberg.org/2009/agents/1403
+    wikipedia: http://en.wikipedia.org/wiki/Ada_Cambridge
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Australia -- Social life and customs -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Melbourne (Vic.) -- Fiction'
+title: 'A Mere Chance: A Novel. Vol. 3'
+url: http://www.gutenberg.org/ebooks/38085
